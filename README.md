@@ -148,3 +148,5 @@ ng serve --port 4201
 
 # JSON Server con rutas “/api/v1/*”
 json-server --watch server/db.json --routes server/routes.json --port 3000
+
+![image](https://github.com/user-attachments/assets/fc07786c-b983-4552-a461-583813d560ee)
